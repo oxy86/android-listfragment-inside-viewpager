@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iefimerida.gr</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Ελλαδα</string>
+    <string name="title_section2">Οικονομια</string>
+    <string name="title_section3">Πολιτικη</string>
+
+</resources>
